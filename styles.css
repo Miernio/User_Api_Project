@@ -82,4 +82,9 @@ ul {
         ul {
             grid-template-columns: 1fr;
             width: auto;
-        }}
+        }
+        main{
+            width:96%;
+        }
+    
+}
