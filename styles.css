@@ -82,6 +82,7 @@ ul {
         ul {
             grid-template-columns: 1fr;
             width: auto;
+            padding-left:8px;
         }
         main{
             width:96%;
